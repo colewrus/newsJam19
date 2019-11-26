@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{29E12463-49F0-28DA-C14D-38FDBDA654D0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Dselector.cs">
+    <Files>
+      <File FileName="Assets/Dialogue.cs" Line="23" Column="1" />
+      <File FileName="Assets/CSVparse.cs" Line="51" Column="1" />
+      <File FileName="Assets/Dselector.cs" Line="129" Column="6" />
+      <File FileName="Assets/GM.cs" Line="47" Column="5" />
+      <File FileName="Assets/boomer.csv" Line="7" Column="108" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
